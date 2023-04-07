@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brandon Gillespie",
+            "title": "Democrat lawmaker loses it after state legislature overrides veto of transgender sports bill: 'full of s---'",
+            "description": "A Democratic lawmaker in Kansas lashed out at her Republican colleagues following the state House vote to override the veto of a bill banning transgender students in girls' sports.",
+            "url": "https://www.foxnews.com/politics/democrat-lawmaker-loses-it-kansas-legislature-override-veto-transgender-sports-bill",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/GettyImages-526910444.jpg",
+            "publishedAt": "2023-04-05T23:28:29Z",
+            "content": "One Democrat lawmaker in Kansas was not happy after an overwhelming number of her colleagues voted to override the veto of a bill banning transgender students from participating in girls' sports, acc… [+1921 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Warner Todd Huston",
+            "title": "VIDEO: Trans Activist Dylan Mulvaney Now Modeling NIKE Sports Bras and Leggings",
+            "description": "NIKE sportswear has just joined Anheuser-Busch in signing transgender activist Dylan Mulvaney to a new lucrative endorsement deal.",
+            "url": "http://www.breitbart.com/sports/2023/04/05/video-trans-activist-dylan-mulvaney-now-modeling-nike-sports-bras-leggings/",
+            "urlToImage": "https://media.breitbart.com/media/2023/04/Roy-Rochlin_Getty-Images-1-640x335.jpg",
+            "publishedAt": "2023-04-05T21:56:34Z",
+            "content": "NIKE has joined Anheuser-Busch in signing transgender activist, Joe Biden supporter, and TikTok star Dylan Mulvaney to a new lucrative endorsement deal.\r\nOli London — whose life was turned upside dow… [+2485 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "2023 NFL mock draft: Football writers make all 31 first-round picks",
+            "description": "Eight FOX Sports football writers teamed up to execute a collective mock draft, making selections at all 31 spots in the first round.",
+            "url": "http://www.foxsports.com/stories/nfl/2023-nfl-mock-draft-football-writers-make-all-31-first-round-picks",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/04/1408/814/4.4.23_Writers-NFL-Mock-Draft_16x9-1.jpg?ve=1&tl=1",
+            "publishedAt": "2023-04-05T13:42:17Z",
+            "content": "There are endless permutations in which this month's NFL Draft could go.\r\nWe've already seen a massive trade, prospects who have risen high and fallen far, and endless debate about the value of vario… [+17182 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " Kings&#x27; Beam Under Attack ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/415140-light-the-beam--hero-ball",
+            "urlToImage": null,
+            "publishedAt": "2023-04-03T14:52:21.1065694Z",
+            "content": "LIGHT the BEAM | Hero Ball"
+        }
+    ]
+}
