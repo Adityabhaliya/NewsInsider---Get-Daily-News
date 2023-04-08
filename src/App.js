@@ -12,7 +12,7 @@ import News from './components/News';
      return (
        <div>
              <Navbar/>
-             <News/>
+             <News pageSize={6}/>
             
             
        </div>
